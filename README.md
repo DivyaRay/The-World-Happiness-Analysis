@@ -1,4 +1,6 @@
 # World-Happiness-Analysis
+World Happiness project of Phase 1 Datatrained
+
 **Steps**
 1. Download the data set data.csv from the Resources tab.
 2. Import the data as a pandas DataFrame.
